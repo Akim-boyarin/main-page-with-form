@@ -1,29 +1,14 @@
 # main-page-with-form
 
-This template should help get you started developing with Vue 3 in Vite.
+To start, copy this repo to your computer, and then enter
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
 ```
+After it, enter
 
-### Compile and Hot-Reload for Development
-
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+And enjoy!
