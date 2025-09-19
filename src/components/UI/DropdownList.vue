@@ -123,6 +123,17 @@
       padding: 8px;
       padding-left: 12px;
       background: rgba(255, 255, 255, 1);
+      transition: all 0.2s ease;
+      @media (min-width: 1100px) {
+        cursor: pointer;
+      }
+
+      &:hover {
+        @media (min-width: 1100px) {
+          background-color: #3E9CDC;
+          color: #fff;
+        }
+      }
     }
   }
 }
