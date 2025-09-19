@@ -3,10 +3,10 @@ import logo from '@/assets/img/header__logo.svg';
 import {reactive} from "vue";
 
 const links = reactive([
-  { id: 1, name: 'Бизнес', url: '/' },
-  { id: 2, name: 'О нас', url: '/' },
-  { id: 3, name: 'Цены', url: '/' },
-  { id: 4, name: 'Оформить заказ', url: '/' }
+  { id: 1, name: 'Бизнес', url: '/main-page-with-form/' },
+  { id: 2, name: 'О нас', url: '/main-page-with-form/' },
+  { id: 3, name: 'Цены', url: '/main-page-with-form/' },
+  { id: 4, name: 'Оформить заказ', url: '/main-page-with-form/' }
 ]);
 </script>
 
